@@ -31,7 +31,7 @@ The system follows a producer-consumer architecture managed by the Embassy execu
  - User Interface: Handles GPIO interrupts from push buttons for volume adjustment.
  - OLED Screen: Displays the current song or ad and the current volume using the I2C protocol and reading the file names from the MicroSD card.
 
-![Design](diagram.drawio2.drawio.svg)
+![Design](diagram.webp)
 
 ---
 
